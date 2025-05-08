@@ -8,8 +8,7 @@
 ## Requerimentos
 - MySQL Server Community
 - MySQL WorkBench
-  (OPCIONAL)
-- XAMMP
+- XAMMP (OPCIONAL)
 
 ## Reglas 
 - Subir una versión Script y una exportada
